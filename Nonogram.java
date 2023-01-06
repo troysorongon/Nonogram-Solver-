@@ -282,7 +282,7 @@ public class Nonogram {
 		}
 	}
 	
-	
+	// Testing
 	public static void main(String[] args){
 		int[][] rows = {{4,3}, {3,4}};
 		int[][] columns = {{0,2}, {0,2}, {0,2}, {0,1}, {0,1}, {0,1}, {0,2}, {0,2}, {0,1}};;
